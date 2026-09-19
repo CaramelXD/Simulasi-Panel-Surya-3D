@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef6642bf31aacd4a81d28d5e3028c0e, type: 3}
+  m_Name: kitchenCoffeeMachine
+  m_EditorClassIdentifier: Assembly-CSharp::FurnitureData
+  furnitureName: Mesin Kopi
+  icon: {fileID: 21300000, guid: 6779614d0fde1794b85ef0766da6dff9, type: 3}
+  prefab3D: {fileID: 3526637829812994033, guid: 5d31857f83051a141a79d8edd334cc13, type: 3}
+  fixedPosition: {x: 3140.1, y: 113.6, z: 1013.3}
+  fixedRotation: {x: -0, y: 90, z: 0}
+  fixedScale: {x: 12, y: 8.888888, z: 12}
+  wattConsumption: 800
+  description: 'Furnitur: kitchenCoffeeMachine'

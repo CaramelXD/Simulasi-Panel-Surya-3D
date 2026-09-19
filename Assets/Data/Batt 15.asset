@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbc31e348f36bf9458a9d7e2a92bbe8a, type: 3}
+  m_Name: Batt 15
+  m_EditorClassIdentifier: Assembly-CSharp::BattData
+  prefab3D: {fileID: 8261623824180758824, guid: e40da503a95d3d043b6bd5670dc36ee2, type: 3}
+  capacity: 15
+  battName: Kapasitas 15kWh
+  description: Baterai dengan kapasitas 15kWh

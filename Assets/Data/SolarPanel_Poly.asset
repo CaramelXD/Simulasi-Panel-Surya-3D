@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 724b977aab431a14193d38d251b15869, type: 3}
+  m_Name: SolarPanel_Poly
+  m_EditorClassIdentifier: Assembly-CSharp::SolarPanelData
+  panelName: Polycrystalline
+  icon: {fileID: 0}
+  prefab3D: {fileID: 5730241769302446671, guid: 7afbe2296ea16a34f845025fa378559a, type: 3}
+  wattOutput: 320
+  efficiency: 0.17
+  panelArea: 1.882
+  peakIrradiance: 1000
+  description: Panel surya efisiensi menengah (17%). Harga lebih terjangkau dengan
+    performa baik.
